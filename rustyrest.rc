@@ -1,0 +1,7 @@
+#[link(name = "rustyrest",
+       vers = "0.1")];
+
+#[comment = "A Resty thing for Rust"];
+#[license = "GPLv3", license = "D&R"];
+
+use std;
